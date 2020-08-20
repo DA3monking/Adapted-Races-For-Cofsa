@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-
+		<info>
+			<name>Adapted Races For Cofsa</name>
+			<description>Adapted Races for Alfallen races from The Compendium of Forgotten Secrets.</description>
+			<author>DA3monking</author>
+			<update version="0.1.0">
+				<file name="Adapted Races For Cofsa.xml" url="https://github.com/DA3monking/Adapted-Races-For-Cofsa.git" />
+			</update>
+		</info>
 
 	<element name="Aasimar" type="Racial Trait" source="Adapted Races for COFSA" id="ID_GFP_COFSA_ADAPTED_RACE_AASIMAR">
 		<supports>Alfallen Origin Race</supports>
