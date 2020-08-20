@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 		<info>
-			<name>Adapted Races For Cofsa</name>
+			<name> Adapted Races For Cofsa </name>
 			<update version="0.1.0">
-				<file name="Adpated-Races.index" url="https://github.com/DA3monking/Adapted-Races-For-Cofsa/blob/master/Adapted%20Races%20For%20Cofsa.index"/> 
+				<file name="Adpated-Races.index" url="https://github.com/DA3monking/Adapted-Races-For-Cofsa/blob/master/Adapted%20Races%20For%20Cofsa.index" /> 
 			</update>
 		</info>
 		
 	<files>
 	<!--Humanoid Races-->
-		<file name="Adapted Aasimar.xml" url="https://github.com/DA3monking/Adapted-Races-For-Cofsa/blob/master/Adapted%20Aasimar.xml" />
+		<file name="Adapted Aasimar.xml" url="https://github.com/DA3monking/Adapted-Races-For-Cofsa/blob/master/Adapted%20Aasimar.xml"/>
 	<!--Beast Races-->
 	
-	<!--Monter Races-->
+	<!--Monster Races-->
 	
 	</files>
 </index>
