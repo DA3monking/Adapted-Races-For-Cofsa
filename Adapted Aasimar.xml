@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+		<info>
+			<name>Adapted Aasimar</name>
+			<description>Adapted Aasimar race for the Alfallen races from The Compendium of Forgotten Secrets.</description>
+			<author>DA3monking</author>
+			<update version="0.1.0">
+				<file name="Adapted Aasimar.xml" url="https://github.com/DA3monking/Adapted-Races-For-Cofsa.git" />
+			</update>
+		</info>
+
+	<element name="Aasimar" type="Racial Trait" source="Adapted Races for COFSA" id="ID_GFP_COFSA_ADAPTED_RACE_AASIMAR">
+		<supports>Alfallen Origin Race</supports>
+		<description>
+			<p> "Though birthed from a line blessed by celstials, the Alrisen can and have influenced these unique individuals. Their appearance, while normaly of unatural beauty, may be warped to a hideous visage or one of the most pure aspects of their Alrisen influence." </p>
+			<p class="indent">You gain the Darkvision and Celestial Resistance racial feature. Your base walking speed is 30 feet, and your size is Medium.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_AASIMAR_CELESTIAL_RESISTANCE" />
+			<grant type="Language" id="ID_LANGUAGE_CELESTIAL" />
+		</rules>
+	</element>
+</elements>
