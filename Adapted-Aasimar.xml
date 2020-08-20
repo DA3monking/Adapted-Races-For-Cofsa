@@ -9,7 +9,7 @@
 			</update>
 		</info>
 
-	<element name="Aasimar" type="Racial Trait" source="Adapted Races for COFSA" id="ID_GFP_COFSA_ADAPTED_RACE_AASIMAR">
+	<element name="Aasimar" type="Racial Trait" source="Adapted Races for COFSA" id="ID_ADAPTED_COFSA_RACE_AASIMAR">
 		<supports>Alfallen Origin Race</supports>
 		<description>
 			<p> Though birthed from a line blessed by celstials, the Alrisen can and have influenced these unique individuals. Their appearance, while normaly of unatural beauty, may be warped to a hideous visage or one of the most pure aspects of their Alrisen influence. </p>
