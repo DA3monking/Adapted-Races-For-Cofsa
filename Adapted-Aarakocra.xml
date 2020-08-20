@@ -9,7 +9,7 @@
 			</update>
 		</info>
 
-	<element name="Aarakocra" type="Racial Trait" source="Adapted Races for COFSA" id="ID_GFP_COFSA_ADAPTED_RACE_AARAKOCRA">
+	<element name="Aarakocra" type="Racial Trait" source="Adapted Races For COFSA" id="ID_GFP_COFSA_ADAPTED_RACE_AARAKOCRA">
 		<supports>Alfallen Origin Race</supports>
 		<description>
 			<p> A rarity in the of the alfallen races, the Aarakocra is met with both fear and wonder. the influence of the Alrisen has almost as much effect on them as a Dragonborn, possibly changing the form to an almost human apearance, and while the wings tend to remain, the feathers may not. </p>
