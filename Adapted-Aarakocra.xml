@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+		<info>
+			<name>Adapted Aarakocra</name>
+			<description>Adapted Aarakocra race for the Alfallen races from The Compendium of Forgotten Secrets.</description>
+			<author>DA3monking</author>
+			<update version="0.1.0">
+				<file name="Adapted-Aarakocra.xml" url="https://raw.githubusercontent.com/DA3monking/Adapted-Races-For-Cofsa/master/Adapted-Aasimar.xml" />
+			</update>
+		</info>
+
+	<element name="Aarakocra" type="Racial Trait" source="Adapted Races for COFSA" id="ID_GFP_COFSA_ADAPTED_RACE_AASIMAR">
+		<supports>Alfallen Origin Race</supports>
+		<description>
+			<p> A rarity in the of the alfallen races, the Aarakocra is met with both fear and wonder. the influence of the Alrisen has almost as much effect on them as a Dragonborn, possibly changing the form to an almost human apearance, and while the wings tend to remain, the feathers may not. </p>
+			<p class="indent">Your claws grant you 1d4 slashing damage, and you have a flight speed of 50 feet. Your base walking speed is 25 feet, and your size is Medium.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<stat name="innate speed" value="25" bonus="base" />
+			<grant type="Racial Trait" id="ID_WOTC_POTA_RACIAL_TRAIT_AARAKOCRA_FLIGHT" />
+			<grant type="Racial Trait" id="ID_WOTC_POTA_RACIAL_TRAIT_AARAKOCRA_TALONS" />
+			<grant type="Language" id="ID_LANGUAGE_AARAKOCRA" />
+			<grant type="Language" id="ID_MM_LANGUAGE_AURAN" />
+		</rules>
+	</element>
+</elements>
