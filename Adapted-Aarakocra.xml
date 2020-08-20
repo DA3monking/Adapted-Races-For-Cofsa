@@ -13,7 +13,7 @@
 		<supports>Alfallen Origin Race</supports>
 		<description>
 			<p> A rarity in the of the alfallen races, the Aarakocra is met with both fear and wonder. the influence of the Alrisen has almost as much effect on them as a Dragonborn, possibly changing the form to an almost human apearance, and while the wings tend to remain, the feathers may not. </p>
-			<p class="indent">Your claws grant you 1d4 slashing damage, and you have a flight speed of 50 feet. Your base walking speed is 25 feet, and your size is Medium.</p>
+			<p class="indent">You are proficient in unarmed strikes, with your claws granting you 1d4 slashing damage, and you have a flight speed of 50 feet. Your base walking speed is 25 feet, and your size is Medium.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
